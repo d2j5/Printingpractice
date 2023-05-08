@@ -1,2 +1,8 @@
-package com.example.helloworld;public class HiFriend {
-}
+package com.example.helloworld;
+
+public class HiFriend {
+    public static void main(String[] args) {
+        String greeting="Hi"+" "+"Larry"+" "+"Sprinkle!";
+        System.out.println(greeting);
+    }
+ }
